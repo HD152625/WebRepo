@@ -20,7 +20,7 @@ import org.dimigo.vo.UserVO;
 public class BlogLoginServlet extends HttpServlet {
 	private static final long serialVersionUID = 1L;
 
-	/**
+	/**  
 	 * @see HttpServlet#HttpServlet()
 	 */
 	public BlogLoginServlet() {

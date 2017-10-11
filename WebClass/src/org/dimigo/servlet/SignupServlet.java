@@ -51,7 +51,7 @@ public class SignupServlet extends HttpServlet {
 	      String nickname = request.getParameter("nickname");
 
 	      boolean result = false;
-	      if(result) {
+	      if(result) {  
 	     	 //세션에 사용자 정보를 생성하여 담기
 	     	// HttpSession session = request.getSession();
 	     	/*UserVO user = new UserVO();
