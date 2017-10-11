@@ -11,7 +11,7 @@ package org.dimigo.vo;
  * 1. 개요 :
  * 2. 작성일 : 2017. 9. 26.
  * </pre>
- *
+ *  
  * @author		: LeeJungwoo
  * @version		: 1.0
  */
