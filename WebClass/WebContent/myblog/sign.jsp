@@ -55,7 +55,7 @@
       <input class="form-control mr-sm-2" type="password" placeholder="PWD" aria-label="PWD" id="PWD" name="PWD" required>
       <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Login</button>
     </form>  
-  </div>
+  </div> 
 </nav>
 
 

@@ -54,7 +54,7 @@
         <li>  
           <a class="js-scroll-trigger" href="/WebClass/myblog/signup.html">회원가입</a>
         </li>
-        <%
+        <% 
         	} else {
         %>
         <li>
