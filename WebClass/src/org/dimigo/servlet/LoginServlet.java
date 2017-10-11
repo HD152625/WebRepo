@@ -56,7 +56,7 @@ public class LoginServlet extends HttpServlet {
      boolean result = true;
      if(result) {
     	 //세션에 사용자 정보를 생성하여 담기  
-    	 HttpSession session = request.getSession();
+    	HttpSession session = request.getSession();
     	UserVO user = new UserVO();
     	user.setId(id);
     	user.setName("홍길동");
