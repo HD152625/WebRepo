@@ -2,7 +2,7 @@
     pageEncoding="UTF-8"%>
 <ul class="navbar-nav mr-auto">
       <li class="nav-item">
-        <a class="nav-link" href="a.html" onmouseover="menu_over(this)" onmouseout="menu_out(this)">메뉴1</a>
+        <a class="nav-link" href="/WebClass/session" onmouseover="menu_over(this)" onmouseout="menu_out(this)">메뉴1</a>
       </li>
       <li class="nav-item">
         <a class="nav-link" href="p.html" onmouseover="menu_over(this)" onmouseout="menu_out(this)">메뉴2</a>
