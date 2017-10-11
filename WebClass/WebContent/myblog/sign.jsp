@@ -61,7 +61,7 @@
 
 <div class = "container">
 
-<img class = "image" src = "/WebClass/img/유카타.jpg" alt ="유카타">
+<img class = "image" src = "/WebClass/img/you.jpg" alt ="유카타">
 </div>
   
 </body>
